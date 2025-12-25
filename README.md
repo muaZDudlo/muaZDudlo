@@ -1,248 +1,262 @@
-<div align="center">
-
-# ▂▃▅▇█▓▒░ MD MAHBUB ISLAM ░▒▓█▇▅▃▂
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  INITIALIZING NEURAL INTERFACE...                     [████100%] ║
-║  LOADING AI PROTOCOLS...                              [████100%] ║
-║  ESTABLISHING GPU CONNECTION...                       [████100%] ║
-║  > SYSTEM READY_                                                  ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=ASPIRANT+AI+ENGINEER;GPU+PROGRAMMING+SPECIALIST;NEURAL+NETWORK+ARCHITECT;DEEP+LEARNING+ENTHUSIAST" alt="Typing SVG" />
-
-</div>
-
-```ascii
-    ╔══════════════════════════════════════════════════════════════════╗
-    ║                                                                  ║
-    ║      ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗             ║
-    ║      ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║             ║
-    ║      ██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║             ║
-    ║      ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║             ║
-    ║      ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗        ║
-    ║      ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝        ║
-    ║                                                                  ║
-    ║           ███╗   ███╗██╗███╗   ██╗██████╗                       ║
-    ║           ████╗ ████║██║████╗  ██║██╔══██╗                      ║
-    ║           ██╔████╔██║██║██╔██╗ ██║██║  ██║                      ║
-    ║           ██║╚██╔╝██║██║██║╚██╗██║██║  ██║                      ║
-    ║           ██║ ╚═╝ ██║██║██║ ╚████║██████╔╝                      ║
-    ║           ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝                       ║
-    ║                                                                  ║
-    ╚══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-## ⚡ SYSTEM DIAGNOSTICS ⚡
-
-```javascript
-> accessing mainframe...
-> decrypting neural protocols...
-> STATUS: ONLINE
-```
-
-</div>
-
----
-
-## 🌐 ｢ IDENTITY MATRIX ｣
-
-```python
-class NeuralArchitect:
-    def __init__(self):
-        self.designation = "MD Mahbub Islam"
-        self.classification = "AI_ENGINEER_ASPIRANT"
-        self.specialization = ["GPU_ACCELERATION", "NEURAL_NETWORKS", "DEEP_LEARNING"]
-        self.status = "ACTIVE"
-        
-    def execute_mission(self):
-        while True:
-            self.optimize_models()
-            self.accelerate_computation()
-            self.push_boundaries()
-            return "INNOVATION_ACHIEVED"
-    
-    def neural_stack(self):
-        return {
-            "core_languages": ["Python", "C++"],
-            "ai_frameworks": ["PyTorch", "Scikit-learn"],
-            "data_systems": ["MySQL", "PostgreSQL"],
-            "specialty": "GPU Programming & Neural Optimization",
-            "mission": "Transform computational limits into possibilities"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neural Network Animation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #000;
+            color: #0f0;
+            font-family: 'Courier New', monospace;
+            overflow-x: hidden;
         }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin: 10px 0;
+            text-shadow: 0 0 10px #0f0;
+        }
+        
+        h2 {
+            font-size: 1.5em;
+            color: #0f0;
+            margin: 20px 0 10px 0;
+            text-shadow: 0 0 5px #0f0;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            color: #0a0;
+        }
+        
+        .intro {
+            text-align: center;
+            line-height: 1.8;
+            margin: 20px 0;
+            padding: 20px;
+            border: 2px solid #0f0;
+            border-radius: 10px;
+            background: rgba(0, 255, 0, 0.05);
+        }
+        
+        canvas {
+            display: block;
+            margin: 30px auto;
+            border: 2px solid #0f0;
+            border-radius: 10px;
+            background: #000;
+            box-shadow: 0 0 20px #0f0;
+        }
+        
+        .stack {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin: 30px 0;
+        }
+        
+        .tech {
+            text-align: center;
+            padding: 15px;
+            border: 2px solid #0f0;
+            border-radius: 8px;
+            background: rgba(0, 255, 0, 0.1);
+            transition: all 0.3s;
+        }
+        
+        .tech:hover {
+            background: rgba(0, 255, 0, 0.2);
+            box-shadow: 0 0 15px #0f0;
+            transform: translateY(-5px);
+        }
+        
+        .tech-name {
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>MD MAHBUB ISLAM</h1>
+            <div class="subtitle">Aspirant AI Engineer | GPU Programming Enthusiast</div>
+        </div>
+        
+        <div class="intro">
+            <p>Passionate about building intelligent systems through deep learning and GPU acceleration.</p>
+            <p>Focused on optimizing neural networks and exploring high-performance computing for AI applications.</p>
+        </div>
+        
+        <h2>⚡ Neural Network Visualization</h2>
+        <canvas id="neuralCanvas" width="800" height="400"></canvas>
+        
+        <h2>🔢 Binary Matrix Stream</h2>
+        <canvas id="binaryCanvas" width="800" height="400"></canvas>
+        
+        <h2>🛠️ Tech Stack</h2>
+        <div class="stack">
+            <div class="tech">
+                <div class="tech-name">Python</div>
+            </div>
+            <div class="tech">
+                <div class="tech-name">C++</div>
+            </div>
+            <div class="tech">
+                <div class="tech-name">PyTorch</div>
+            </div>
+            <div class="tech">
+                <div class="tech-name">Scikit-learn</div>
+            </div>
+            <div class="tech">
+                <div class="tech-name">MySQL</div>
+            </div>
+            <div class="tech">
+                <div class="tech-name">PostgreSQL</div>
+            </div>
+        </div>
+    </div>
 
-# INITIALIZING...
-architect = NeuralArchitect()
-architect.execute_mission()  # > RUNNING...
-```
-
-<div align="center">
-
-### 『 DEEP LEARNING ARCHITECT • GPU OPTIMIZER • DATA ALCHEMIST 』
-
-Pioneering the intersection of artificial intelligence and high-performance computing. Obsessed with squeezing every ounce of performance from silicon, transforming raw computational power into intelligent systems that learn, adapt, and evolve.
-
-</div>
-
----
-
-## 🔋 ｢ TECH ARSENAL ｣
-
-<div align="center">
-
-```
-╔════════════════════════ CORE SYSTEMS ═══════════════════════╗
-```
-
-### ⚙️ PRIMARY WEAPONS
-
-![Python](https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PYTORCH-00FF41?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0D1117)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-00FF41?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=0D1117)
-
-### 💾 DATA VAULTS
-
-![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF41?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=0D1117)
-
-### 🚀 ENHANCEMENT MODULES
-
-![CUDA](https://img.shields.io/badge/CUDA_GPU-00FF41?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-00FF41?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NUMPY-00FF41?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/PANDAS-00FF41?style=for-the-badge&logo=pandas&logoColor=black&labelColor=0D1117)
-
-```
-╚═════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📊 ｢ NEURAL NETWORK METRICS ｣
-
-<div align="center">
-
-```
-> ACCESSING DATABASE...
-> RETRIEVING PERFORMANCE LOGS...
-> COMPILING STATISTICS...
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_radius=10" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=black-ice&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_radius=10" width="48%" />
-
-```
-> DATA_RETRIEVAL: COMPLETE
-```
-
-</div>
-
----
-
-## 🎯 ｢ ACTIVE PROTOCOLS ｣
-
-<div align="center">
-
-```diff
-+ MISSION_01: GPU-accelerated neural network optimization
-+ MISSION_02: Deep learning model architecture research  
-+ MISSION_03: High-performance computing implementations
-+ MISSION_04: Open-source AI contribution protocols
-+ MISSION_05: Parallel processing algorithm development
-
-! WARNING: Innovation levels exceeding normal parameters
-```
-
-</div>
-
----
-
-## 🔬 ｢ RESEARCH DOMAINS ｣
-
-<table align="center">
-<tr>
-<td width="50%">
-
-```yaml
-Neural Architecture:
-  - Transformer Models
-  - CNN Optimization
-  - RNN Variants
-  - Attention Mechanisms
-```
-
-</td>
-<td width="50%">
-
-```yaml
-GPU Programming:
-  - CUDA Kernels
-  - Memory Optimization
-  - Parallel Algorithms
-  - Performance Tuning
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌌 ｢ NEURAL ACTIVITY STREAM ｣
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
----
-
-## 📡 ｢ ESTABLISH CONNECTION ｣
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKED_IN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/NEURAL_HUB-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/NEURAL_FEED-00FF41?style=for-the-badge&logo=x&logoColor=black&labelColor=0D1117)](https://twitter.com/YOUR-HANDLE)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "In the matrix of artificial intelligence,                 ║
-║    every optimized millisecond is a step toward singularity"  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00ff41&style=for-the-badge&label=NEURAL+SCANS)
-
-```ascii
-  ⚡ SYSTEM STATUS: FULLY OPERATIONAL ⚡
-  ⚡ GPU CORES: MAXIMUM EFFICIENCY ⚡
-  ⚡ NEURAL NETS: TRAINING... ⚡
-```
-
-### ▂▃▅▇█▓▒░ END TRANSMISSION ░▒▓█▇▅▃▂
-
-</div>
+    <script>
+        // Neural Network Animation
+        const neuralCanvas = document.getElementById('neuralCanvas');
+        const neuralCtx = neuralCanvas.getContext('2d');
+        
+        const layers = [5, 8, 8, 6, 3];
+        const nodes = [];
+        const connections = [];
+        
+        function initNeuralNetwork() {
+            const spacing = neuralCanvas.width / (layers.length + 1);
+            
+            layers.forEach((count, layerIndex) => {
+                const layerNodes = [];
+                const verticalSpacing = neuralCanvas.height / (count + 1);
+                
+                for (let i = 0; i < count; i++) {
+                    layerNodes.push({
+                        x: spacing * (layerIndex + 1),
+                        y: verticalSpacing * (i + 1),
+                        activation: Math.random(),
+                        pulseSpeed: 0.02 + Math.random() * 0.03
+                    });
+                }
+                nodes.push(layerNodes);
+            });
+            
+            for (let i = 0; i < layers.length - 1; i++) {
+                for (let j = 0; j < nodes[i].length; j++) {
+                    for (let k = 0; k < nodes[i + 1].length; k++) {
+                        connections.push({
+                            from: nodes[i][j],
+                            to: nodes[i + 1][k],
+                            weight: Math.random(),
+                            pulse: Math.random()
+                        });
+                    }
+                }
+            }
+        }
+        
+        function drawNeuralNetwork() {
+            neuralCtx.fillStyle = '#000';
+            neuralCtx.fillRect(0, 0, neuralCanvas.width, neuralCanvas.height);
+            
+            connections.forEach(conn => {
+                conn.pulse += 0.02;
+                if (conn.pulse > 1) conn.pulse = 0;
+                
+                const gradient = neuralCtx.createLinearGradient(
+                    conn.from.x, conn.from.y, conn.to.x, conn.to.y
+                );
+                
+                const alpha = 0.1 + conn.weight * 0.3;
+                const pulseAlpha = Math.sin(conn.pulse * Math.PI) * 0.5;
+                
+                gradient.addColorStop(0, `rgba(0, 255, 0, ${alpha})`);
+                gradient.addColorStop(conn.pulse, `rgba(0, 255, 0, ${alpha + pulseAlpha})`);
+                gradient.addColorStop(1, `rgba(0, 255, 0, ${alpha})`);
+                
+                neuralCtx.strokeStyle = gradient;
+                neuralCtx.lineWidth = 1 + conn.weight;
+                neuralCtx.beginPath();
+                neuralCtx.moveTo(conn.from.x, conn.from.y);
+                neuralCtx.lineTo(conn.to.x, conn.to.y);
+                neuralCtx.stroke();
+            });
+            
+            nodes.forEach(layer => {
+                layer.forEach(node => {
+                    node.activation += node.pulseSpeed;
+                    if (node.activation > 1) node.activation = 0;
+                    
+                    const size = 8 + Math.sin(node.activation * Math.PI * 2) * 3;
+                    const brightness = 100 + Math.sin(node.activation * Math.PI * 2) * 155;
+                    
+                    neuralCtx.fillStyle = `rgb(0, ${brightness}, 0)`;
+                    neuralCtx.beginPath();
+                    neuralCtx.arc(node.x, node.y, size, 0, Math.PI * 2);
+                    neuralCtx.fill();
+                    
+                    neuralCtx.strokeStyle = `rgba(0, 255, 0, 0.5)`;
+                    neuralCtx.lineWidth = 2;
+                    neuralCtx.beginPath();
+                    neuralCtx.arc(node.x, node.y, size + 3, 0, Math.PI * 2);
+                    neuralCtx.stroke();
+                });
+            });
+            
+            requestAnimationFrame(drawNeuralNetwork);
+        }
+        
+        // Binary Matrix Animation
+        const binaryCanvas = document.getElementById('binaryCanvas');
+        const binaryCtx = binaryCanvas.getContext('2d');
+        
+        const fontSize = 14;
+        const columns = binaryCanvas.width / fontSize;
+        const drops = [];
+        
+        for (let i = 0; i < columns; i++) {
+            drops[i] = Math.random() * binaryCanvas.height / fontSize;
+        }
+        
+        function drawBinaryMatrix() {
+            binaryCtx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+            binaryCtx.fillRect(0, 0, binaryCanvas.width, binaryCanvas.height);
+            
+            binaryCtx.font = fontSize + 'px monospace';
+            
+            for (let i = 0; i < drops.length; i++) {
+                const text = Math.random() > 0.5 ? '1' : '0';
+                const brightness = 150 + Math.random() * 105;
+                binaryCtx.fillStyle = `rgb(0, ${brightness}, 0)`;
+                
+                binaryCtx.fillText(text, i * fontSize, drops[i] * fontSize);
+                
+                if (drops[i] * fontSize > binaryCanvas.height && Math.random() > 0.975) {
+                    drops[i] = 0;
+                }
+                drops[i]++;
+            }
+        }
+        
+        initNeuralNetwork();
+        drawNeuralNetwork();
+        setInterval(drawBinaryMatrix, 50);
+    </script>
+</body>
+</html>
